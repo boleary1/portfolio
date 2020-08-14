@@ -1,8 +1,11 @@
 
 /* added this class to be able to see the content under the footer */
-main {
-    margin-bottom: 90px;
+html {
+    scroll-behavior: smooth;
   }
+/* main {
+    margin-bottom: 90px;
+  } */
 /* Adjust the size of the image in the bio */
 .bio-image{
   height: 350px
@@ -48,6 +51,20 @@ main {
 
 }
 
+.card{
+    background-color: #8a5c73;
+}
+.card-link,.link{
+    color: black;
+    text-decoration: underline;
+}
+.section-padding{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
 /*bg color of footer to match hearder  */
 .page-footer{
   background: #343a40!important;  
@@ -57,4 +74,7 @@ main {
 margin-left: 20px;
 margin-right: 15px;
 
+}
+.background{
+    background-color: #5c8a8a;
 }
