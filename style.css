@@ -1,0 +1,60 @@
+
+/* added this class to be able to see the content under the footer */
+main {
+    margin-bottom: 90px;
+  }
+/* Adjust the size of the image in the bio */
+.bio-image{
+  height: 350px
+}
+/* adjust the size of the contact image */
+.contact-image{
+  height: 200px;
+  width: 218px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 0px;
+}
+/* adjusting the title */
+.page-title{
+  text-align: center;
+  text-decoration: underline;
+  padding: 15;
+  /* border: solid 1px black; */ /*conmmented this line out,because I didn't like the border */
+}
+
+/* CSS for cards in portfolio */
+.potrfoliobox { 
+  flex-flow: column wrap;
+  justify-content: center;
+}
+/* css for cards */
+.container {
+  position: relative;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+/* styling for bar in css cards */
+.center {
+  position: absolute;
+  top: 66%;
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+  background-color: #343a40; 
+  opacity: 0.8;
+
+}
+
+/*bg color of footer to match hearder  */
+.page-footer{
+  background: #343a40!important;  
+}
+/* style for contact me sheet */
+.table{
+margin-left: 20px;
+margin-right: 15px;
+
+}
