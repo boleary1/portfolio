@@ -13,9 +13,9 @@ Last edit was 8/16/2020 by Brian O'leary.  Contact oleary.brian1@gmail.com with 
 
 ## **Screenshots:**
 #### Top half of page:
-![top screen shot](Assets\images\screen shot new1.JPG)
+![https://github.com/boleary1/portfolio/blob/master/Assets/images/screen%20shot%20new1.JPG?raw=true)
 #### Bottom half of page:
-![Large Portfolio screen shot](Assets\images\screen shot new2.JPG)
+![https://github.com/boleary1/portfolio/blob/master/Assets/images/screen%20shot%20new2.JPG?raw=true)
 
 
  ## ** Secind Original assignment description beloew: **
