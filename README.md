@@ -18,7 +18,7 @@ Last edit was 8/16/2020 by Brian O'leary.  Contact oleary.brian1@gmail.com with 
 ![https://github.com/boleary1/portfolio/blob/master/Assets/images/screen%20shot%20new2.JPG?raw=true)
 
 
- ## ** Secind Original assignment description beloew: **
+ ## ** Second Original assignment description beloew: **
 # Unit 08 Project 1 Homework: Professional Materials
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
