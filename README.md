@@ -13,9 +13,11 @@ Last edit was 8/16/2020 by Brian O'leary.  Contact oleary.brian1@gmail.com with 
 
 ## **Screenshots:**
 #### Top half of page:
-![https://github.com/boleary1/portfolio/blob/master/Assets/images/screen%20shot%20new1.JPG?raw=true)
+  ![Top half of page](https://github.com/boleary1/portfolio/blob/master/Assets/images/screen%20shot%20new1.JPG?raw=true)
+
 #### Bottom half of page:
-![https://github.com/boleary1/portfolio/blob/master/Assets/images/screen%20shot%20new2.JPG?raw=true)
+  ![Top half of page](https://github.com/boleary1/portfolio/blob/master/Assets/images/screen%20shot%20new2.JPG?raw=true)
+
 
 
  ## ** Second Original assignment description beloew: **
